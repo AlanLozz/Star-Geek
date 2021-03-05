@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Quicksand Light';
+    src: url(components/assets/fonts/Quicksand-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Quicksand Regular';
+    src: url(components/assets/fonts/Quicksand-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Quicksand SemiBold';
+    src: url(components/assets/fonts/Quicksand-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Quicksand Bold';
+    src: url(components/assets/fonts/Quicksand-Bold.ttf);
+}
+
+body {
+    font-family: 'Quicksand Regular';
+    background: linear-gradient(39.32deg, rgba(7, 150, 196, 0.2) 16.46%, rgba(231, 22, 160, 0.2) 80.67%);
+}
